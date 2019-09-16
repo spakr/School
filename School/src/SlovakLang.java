@@ -9,16 +9,13 @@ public class SlovakLang extends Subject {
 
     public static void main(String[] args) {
 
-        String value = "pondelok";
-        String value2 = "dnes je pOndelok";
+        String value = "dnes je pondelok";
 
         String result = upperCaseFirst(value);
         System.out.println(value);
         System.out.println(result);
 
-        result = upperCaseFirst(value2);
-        System.out.println(value2);
-        System.out.println(result);
+     
     }
 }
 
