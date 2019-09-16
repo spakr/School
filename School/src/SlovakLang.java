@@ -1,3 +1,9 @@
+/*Roman Špak
+
+ */
+
+
+
 public class SlovakLang extends Subject {
     public static String upperCaseFirst(String value) {
 
