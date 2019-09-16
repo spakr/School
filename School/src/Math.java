@@ -1,3 +1,8 @@
+/*Roman Špak
+
+ */
+
+
 public class Math extends Subject {
     public static void main(String[] args) {
         int num = 1526, reversed = 0;
